@@ -1,6 +1,6 @@
 ---
 title: "Test the title"
-collection: publications
+collection: research
 category: conferences
 permalink: /research/2024-02-17-paper-title-number-2
 excerpt: 'This paper is about fixing template issue #693.'
