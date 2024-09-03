@@ -2,7 +2,7 @@
 title: "Paper Title Number 1"
 collection: research
 category: manuscripts
-permalink: /research/2023-8-paper-ejr
+permalink: /research/2023-8-paper-ejr.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-10-01
 venue: 'Journal 1'
