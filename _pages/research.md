@@ -12,7 +12,7 @@ author_profile: true
  
 **Liquidity Trap, Private Behavior Preference and The Micro-Foundation of Fiscal Multiplier Dynamics**  
 with Chuanglian Chen, Feng Dong, and Xirong Gao  
-Revise & Resubmit in *Macroeconomic Dynamics*.  
+Revise & Resubmit in *Macroeconomic Dynamics*  
 
 <br>  <br>  
 
