@@ -22,4 +22,4 @@ PDF, Revise & Resubmit in *Macroeconomic Dynamics*
 
 #### 渐进式改革、双支柱调控转型与财政政策效果研究
 与陈创练, 高锡蓉, 郭玉清  
-*经济研究*, 2023, 8.
+[PDF](https://github.com/KenwayXu/KenwayXu.github.io/files/paper_202308_ejr), *经济研究*, 2023, 8.
