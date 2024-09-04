@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D student in Finance, Zhejiang University, 2024 - Present
-* M.S. in Finance, Jinan University, 2021 - 2024
+* M.A. in Finance, Jinan University, 2021 - 2024
 * B.S. in Mechanical Engineering, South China University of Technology, 2015 - 2019
 
 <br>
