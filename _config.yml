@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.png"    # adjusted it in .../_sass/_sidebar.scss
   name             : "Jinhui(Kenway) Xu"
   pronouns         : # example: "she/her"  
   bio              : "  "
